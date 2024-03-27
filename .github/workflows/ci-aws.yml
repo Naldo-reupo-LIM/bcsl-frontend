@@ -4,6 +4,7 @@ on: push
 
 permissions:
   contents: read
+  
 
 env:
   ECS_SERVICE: frontend-service
